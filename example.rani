@@ -1,0 +1,19 @@
+<!------------------------------------<
+Fichier : exemple.txt
+Date : 04 Mai 2022
+Auteur : ZOUAOUI RANI (Student engineer in computer science and content creation)
+website : https://www.rani4tech.com/
+>!------------------------------------>
+/*
+ 
+Les commentaires peuvent etre sur une ou plusieurs lignes entre "%comment% " et " %%"
+ 
+*/
+declarations: // partie declaration des variables //
+    integer n,x;
+    integer a;
+start
+write 15/3;
+write 15+3;
+write 15*3;
+end
