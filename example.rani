@@ -2,14 +2,14 @@
 Fichier : exemple.txt
 Date : 04 Mai 2022
 Auteur : ZOUAOUI RANI (Student engineer in computer science and content creation)
-website : https://www.rani4tech.com/
+website : https://www.rani4tech.blogspot.com/
 >!------------------------------------>
 /*
  
-Les commentaires peuvent etre sur une ou plusieurs lignes entre "%comment% " et " %%"
+Comments can be on one or more lines between "%comment%" and "%%"
  
 */
-declarations: // partie declaration des variables //
+declarations: // variable declaration part //
     integer n,x;
     integer a;
 start
