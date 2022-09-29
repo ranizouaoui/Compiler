@@ -16,6 +16,12 @@ compiler:
 ### To run:
 ```
 $ ./compiler
+5 
+18
+45
+Results :
+        -- Success in lexical analysis ! --
+        -- Parse success! --
 ```
 
 ### To update:
